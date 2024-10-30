@@ -3,5 +3,8 @@ const user = "User:";
 const admin = "Queriate";
 const ageId = "Idade:";
 const age = 27;
+const sexId = "sexo:";
+const sex = "Masculino";
 console.log(user, admin);
 console.log(ageId, age);
+console.log(sexId, sex);
